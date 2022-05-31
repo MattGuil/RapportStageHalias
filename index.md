@@ -1,4 +1,7 @@
-<style>p {text-align: justify}</style>
+<style>
+p {text-align: justify}
+img {width: 50%}
+</style>
 
 # Rapport de stage : <br/> Développement d’une plateforme web de gestion du risque naturel
 
