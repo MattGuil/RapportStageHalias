@@ -1,12 +1,15 @@
 <style>
 p {text-align: justify}
 img {width: 50%}
+#logos {display: flex}
 </style>
 
 # Rapport de stage : <br/> Développement d’une plateforme web de gestion du risque naturel
 
-![Logo IUT2 Grenoble](/images/logo-iut2.png)
-![Logo Halias Technologies](/images/logo-halias.jpg)
+<div id="logos">
+    ![Logo IUT2 Grenoble](/images/logo-iut2.png)
+    ![Logo Halias Technologies](/images/logo-halias.jpg)
+</div>
 
 > [Introduction](#introduction) <br/>
 > [Présentation de l’entreprise et du stage](#présentation-de-lentreprise-et-du-stage) <br/>
