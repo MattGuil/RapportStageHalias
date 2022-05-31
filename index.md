@@ -1,13 +1,13 @@
 # Rapport de stage
 
-[Introduction](#introduction)
-[Présentation de l’entreprise et du stage](#présentation-de-lentreprise-et-du-stage)
-[Présentation de la réalisation](#présentation-de-la-réalisation)
-[Conclusion](#conclusion)
-[Bibliographie](#bibliographie)
-[Webographie](#webographie)
-[Glossaire](#glossaire)
-[Annexes](#annexes)
+[Introduction](#introduction)  
+[Présentation de l’entreprise et du stage](#présentation-de-lentreprise-et-du-stage)  
+[Présentation de la réalisation](#présentation-de-la-réalisation)  
+[Conclusion](#conclusion)  
+[Bibliographie](#bibliographie)  
+[Webographie](#webographie)  
+[Glossaire](#glossaire)  
+[Annexes](#annexes)  
 
 # Introduction
 # Présentation de l’entreprise et du stage
