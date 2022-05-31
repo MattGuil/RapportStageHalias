@@ -1,13 +1,15 @@
+<style>p {text-align: justify}</style>
+
 # Rapport de stage
 
->- [Introduction](#introduction)
->- [Présentation de l’entreprise et du stage](#présentation-de-lentreprise-et-du-stage)
->- [Présentation de la réalisation](#présentation-de-la-réalisation)
->- [Conclusion](#conclusion)
->- [Bibliographie](#bibliographie)
->- [Webographie](#webographie)
->- [Glossaire](#glossaire)
->- [Annexes](#annexes)
+> [Introduction](#introduction) <br/>
+> [Présentation de l’entreprise et du stage](#présentation-de-lentreprise-et-du-stage) <br/>
+> [Présentation de la réalisation](#présentation-de-la-réalisation) <br/>
+> [Conclusion](#conclusion) <br/>
+> [Bibliographie](#bibliographie) <br/>
+> [Webographie](#webographie) <br/>
+> [Glossaire](#glossaire) <br/>
+> [Annexes](#annexes) <br/>
 
 # Introduction
 
