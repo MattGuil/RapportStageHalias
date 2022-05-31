@@ -1,8 +1,8 @@
 # Rapport de stage
 
 - [Introduction](#introduction)
-- [Présentation de l’entreprise et du stage](#présentation-de-lentreprise-et-du-stage)
-- [Présentation de la réalisation](#présentation-de-la-réalisation)
+- 1. [Présentation de l’entreprise et du stage](#présentation-de-lentreprise-et-du-stage)
+- 2. [Présentation de la réalisation](#présentation-de-la-réalisation)
 - [Conclusion](#conclusion)
 - [Bibliographie](#bibliographie)
 - [Webographie](#webographie)
