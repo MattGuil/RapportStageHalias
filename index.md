@@ -1,6 +1,5 @@
 <style>
 p {text-align: justify;}
-img {width: }
 </style>
 
 # Rapport de stage : <br/> Développement d’une plateforme web de gestion du risque naturel
