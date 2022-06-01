@@ -1,6 +1,12 @@
 <style>
-p {text-align: justify;}
-table {border: none;}
+p {
+    text-align: justify;
+}
+
+table {
+    border-collapse: collapse;
+    padding: auto;
+}
 </style>
 
 # Rapport de stage : <br/> Développement d’une plateforme web de gestion du risque naturel
