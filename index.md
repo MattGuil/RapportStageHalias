@@ -1,20 +1,24 @@
 <style>
-p {
-    text-align: justify;
+em {
+    float: left;
+    text-align: right;
+    width: 100%;
 }
 
 img {
-    margin: auto;
+    width: 100%;
+}
+
+p {
+    text-align: justify;
 }
 </style>
 
 *Matthieu GUILLEMIN*
 
-![Logo IUT2 Grenoble](/images/logo-iut2.png)
-
 # Rapport de stage : <br/> Développement d’une plateforme web de gestion du risque naturel
 
-![Logo Halias Technologies](/images/logo-halias.png)
+![Logo IUT2 Grenoble](/images/logos.png)
 
 > [Introduction](#introduction) <br/>
 > [Présentation de l’entreprise et du stage](#présentation-de-lentreprise-et-du-stage) <br/>
